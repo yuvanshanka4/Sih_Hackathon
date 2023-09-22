@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="log-in">
+        <div class="overlap-wrapper">
+            <div class="overlap">
+                <div class="rectangle">
+                    <div class="overlap-group">
+                        <div class="div"></div>
+                        <div class="text-wrapper">WELCOME</div>
+                        <p class="p">Field-tested, farmer-approved: Discover the ultimate farming app 🌾👨‍🌾</p>
+                        <div class="overlap-2">
+                            <div class="rectangle-2"></div>
+                            <img class="logo" src="img/logo.png" />
+                            <div class="frame"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="overlap-group-wrapper">
+                    <div class="overlap-3">
+                        <div class="rectangle-3"></div>
+                        <div class="text-wrapper-3"><button type="submit" class="login-button1"> Forgot password....
+                        </button></div>
+                        <img class="img" src="img/image-71.png" />
+                    </div>
+                </div>
+                <div class="rectangle-5">
+                    <img class="image-2" src="img/image-62.png" />
+                    <div class="text-wrapper-2">Sign in with facebook</div>
+                </div>
+                <div class="input-wrapper">
+                    <input type="email" id="username" class="email-input" placeholder="Enter your email" />
+                </div>
+                <div class="input-wrapper1">
+                    <input type="password" id="password" class="password-input" placeholder="Enter your password" />
+                </div>
+                <div class="image-wrapper">
+                    <button type="button" class="login-button" onclick="checkLogin()">></button>
+                </div>
+                <div class="rectangle-6">
+                    <img class="image-4" src="img/image-58.png" />
+                    <div class="text-wrapper-7">Sign in with google</div>
+                </div>
+                <img class="image-5" src="img/image-74.png" />
+            </div>
+        </div>
+    </div>
+    
+    <p id="loginStatus"></p>
+
+    <script>
+      function checkLogin() {
+          var username = document.getElementById("username").value;
+          var password = document.getElementById("password").value;
+
+          // Check if the username and password match "admin"
+          if (username === "admin" && password === "admin") {
+              
+              window.location.href = 'D:/Project-sih/top_facts/top_facts.html';
+          } else {
+              document.getElementById("loginStatus").innerHTML = "Invalid username or password.";
+          }
+      }
+  </script>
+</body>
+</html>
