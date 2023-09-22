@@ -1,0 +1,487 @@
+.feed {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.feed .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1436px;
+  height: 1740px;
+  position: relative;
+}
+
+.feed .overlap {
+  position: absolute;
+  width: 187px;
+  height: 267px;
+  top: 275px;
+  left: 1323px;
+  background-color: #fcfcfc;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 10px 20px 4px #00000040;
+}
+
+.feed .image {
+  position: absolute;
+  width: 72px;
+  height: 75px;
+  top: 95px;
+  left: 40px;
+  object-fit: cover;
+}
+
+.feed .overlap-group {
+  position: absolute;
+  width: 1653px;
+  height: 1853px;
+  top: 122px;
+  left: -211px;
+}
+
+.feed .text-wrapper {
+  position: absolute;
+  width: 756px;
+  top: 46px;
+  left: 0;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feed .rectangle {
+  left: 241px;
+  position: absolute;
+  width: 620px;
+  height: 267px;
+  top: 153px;
+  background-color: #ffffffbf;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 10px 20px 4px #00000040;
+}
+
+.feed .rectangle-2 {
+  left: 882px;
+  position: absolute;
+  width: 620px;
+  height: 267px;
+  top: 153px;
+  background-color: #ffffffbf;
+  border-radius: 40px;
+  border: 1px solid;
+  border-color: #000000;
+  box-shadow: 10px 20px 4px #00000040;
+}
+
+.feed .img {
+  width: 27px;
+  height: 23px;
+  top: 1354px;
+  left: 864px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .group {
+  position: absolute;
+  width: 1436px;
+  height: 1347px;
+  top: 506px;
+  left: 217px;
+}
+
+.feed .overlap-2 {
+  position: relative;
+  width: 1430px;
+  height: 1347px;
+}
+
+.feed .group-2 {
+  position: absolute;
+  width: 1424px;
+  height: 1317px;
+  top: 30px;
+  left: 0;
+}
+
+.feed .image-2 {
+  width: 53px;
+  height: 55px;
+  top: 0;
+  left: 1327px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .image-3 {
+  width: 57px;
+  height: 60px;
+  top: 877px;
+  left: 259px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .image-4 {
+  width: 49px;
+  height: 77px;
+  top: 859px;
+  left: 1329px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .image-5 {
+  width: 57px;
+  height: 63px;
+  top: 874px;
+  left: 144px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .overlap-3 {
+  position: absolute;
+  width: 1398px;
+  height: 781px;
+  top: 96px;
+  left: 18px;
+}
+
+.feed .image-6 {
+  width: 1398px;
+  height: 686px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .image-7 {
+  width: 97px;
+  height: 98px;
+  top: 683px;
+  left: 628px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .text-wrapper-2 {
+  position: absolute;
+  width: 334px;
+  height: 65px;
+  top: 0;
+  left: 190px;
+  font-family: "Lato", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.feed .text-wrapper-3 {
+  position: absolute;
+  width: 259px;
+  top: 989px;
+  left: 0;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feed .overlap-group-2 {
+  position: absolute;
+  width: 1255px;
+  height: 204px;
+  top: 1086px;
+  left: 36px;
+}
+
+.feed .raj-embracing-the {
+  position: absolute;
+  width: 1255px;
+  top: 0;
+  left: 0;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feed .span {
+  font-weight: 700;
+}
+
+.feed .text-wrapper-4 {
+  font-family: "Manjari", Helvetica;
+  font-weight: 700;
+  font-size: 64px;
+}
+
+.feed .text-wrapper-5 {
+  font-family: "Laila", Helvetica;
+}
+
+.feed .text-wrapper-6 {
+  position: absolute;
+  width: 665px;
+  top: 146px;
+  left: 136px;
+  font-family: "Luxurious Roman", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.feed .image-8 {
+  width: 111px;
+  height: 112px;
+  top: 123px;
+  left: 2803px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .image-9 {
+  width: 125px;
+  height: 114px;
+  top: 0;
+  left: 58px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .image-10 {
+  position: absolute;
+  width: 72px;
+  height: 75px;
+  top: 469px;
+  left: 1320px;
+  object-fit: cover;
+}
+
+.feed .overlap-wrapper {
+  position: absolute;
+  width: 323px;
+  height: 546px;
+  top: 0;
+  left: 508px;
+}
+
+.feed .overlap-4 {
+  position: relative;
+  height: 546px;
+}
+
+.feed .image-11 {
+  width: 323px;
+  height: 471px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .image-12 {
+  width: 289px;
+  height: 422px;
+  top: 84px;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .image-13 {
+  width: 261px;
+  height: 380px;
+  top: 166px;
+  left: 4px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .overlap-group-wrapper {
+  position: absolute;
+  width: 323px;
+  height: 546px;
+  top: 0;
+  left: 1145px;
+}
+
+.feed .image-14 {
+  width: 210px;
+  height: 186px;
+  top: 194px;
+  left: 273px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .image-15 {
+  width: 186px;
+  height: 193px;
+  top: 187px;
+  left: 928px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .image-16 {
+  width: 75px;
+  height: 75px;
+  top: 1403px;
+  left: 248px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.feed .frame {
+  position: absolute;
+  width: 400px;
+  height: 122px;
+  top: -30px;
+  left: 70px;
+  background-color: #1e5048;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.feed .logo {
+  
+  position: absolute;
+  width: 137px;
+  height: 122px;
+  top: 0;
+  margin-left: 100px;
+  object-fit: cover;
+}
+
+.feed .image-17 {
+  width: 100px;
+  height: 100px;
+  top: 9px;
+  left: 1307px;
+  position: absolute;
+  object-fit: cover;
+}
+.feed .frame {
+  position: absolute;
+  width: 1436px;
+  height: 122px;
+  top: 0;
+  left: 0;
+  background-color: #1e5048;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.feed .logo {
+  position: relative;
+  width: 137px;
+  height: 122px;
+  top: 0;
+  left: 38px;
+  object-fit: cover;
+}
+
+.feed .menu-bar {
+  position: absolute;
+  margin-top: 35px;
+  display: flex;
+  gap: 20px;
+  top: 30px;
+  
+}
+
+.feed .menu-bar a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.feed .menu-bar a:hover {
+  background-color: #165144; /* Change the background color on hover */
+}
+.feed .menu-bar {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end; /* Align the content to the right */
+}
+
+.feed .menu-bar .dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.feed .menu-bar .dropbtn {
+  background-color: #1e5048;
+  color:#fcfcfc;
+  padding: 0px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 32px;
+  
+
+}
+
+.feed .menu-bar .dropbtn:hover {
+  background-color: #ffffff; /* Change the background color on hover */
+
+  
+}
+
+.feed .menu-bar .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #1e5048;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  
+}
+
+.feed .menu-bar .dropdown-content a {
+  color: #fff;
+  padding: 20px 70px;
+  text-decoration: none;
+  display: block;
+  font-size: 32px;
+  
+}
+
+.feed .menu-bar .dropdown-content a:hover {
+  background-color:#1e5048; /* Change the background color on hover */
+  margin-left: 0;
+}
+
+.feed .menu-bar .dropdown:hover .dropdown-content {
+  display: block;
+}
