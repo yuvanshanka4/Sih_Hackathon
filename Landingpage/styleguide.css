@@ -1,0 +1,21 @@
+:root {
+  --secondary: rgba(122, 97, 255, 1);
+  --primary: rgba(23, 161, 250, 1);
+  --tertiary: rgba(255, 0, 255, 1);
+  --black: rgba(10, 41, 66, 1);
+  --graydefault: rgba(99, 107, 120, 1);
+  --graylight: rgba(161, 166, 173, 1);
+  --graylighter: rgba(209, 212, 214, 1);
+  --ag-p2-font-family: "Inter-Regular", Helvetica;
+  --ag-p2-font-weight: 400;
+  --ag-p2-font-size: 12px;
+  --ag-p2-letter-spacing: 0px;
+  --ag-p2-line-height: normal;
+  --ag-p2-font-style: normal;
+  --h3-font-family: "Inter-Medium", Helvetica;
+  --h3-font-weight: 500;
+  --h3-font-size: 28px;
+  --h3-letter-spacing: 0.56px;
+  --h3-line-height: 83.99999737739563%;
+  --h3-font-style: normal;
+}
