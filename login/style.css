@@ -1,0 +1,376 @@
+.log-in {
+  background-color: #fffff7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.log-in .overlap-wrapper {
+  background-color: #fffff7;
+  width: 1440px;
+  height: 1024px;
+}
+
+.log-in .overlap {
+  position: relative;
+  width: 1299px;
+  height: 967px;
+  top: 29px;
+  left: 72px;
+}
+
+.log-in .rectangle {
+  position: absolute;
+  width: 666px;
+  height: 963px;
+  top: 2px;
+  left: 0;
+}
+
+.log-in .overlap-group {
+  position: relative;
+  width: 670px;
+  height: 967px;
+  top: -2px;
+  left: -2px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.log-in .div {
+  position: absolute;
+  width: 246px;
+  height: 248px;
+  top: 325px;
+  left: 108px;
+  background-color: #fffff7;
+}
+
+.log-in .text-wrapper {
+  position: absolute;
+  width: 360px;
+  top: 199px;
+  left: 138px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.log-in .p {
+  position: absolute;
+  width: 545px;
+  top: 686px;
+  left: 62px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.log-in .overlap-2 {
+  position: absolute;
+  width: 179px;
+  height: 141px;
+  top: 36px;
+  left: 232px;
+}
+
+.log-in .rectangle-2 {
+  position: absolute;
+  width: 178px;
+  height: 95px;
+  top: 24px;
+  left: 1px;
+  background-color: #1e5048;
+}
+
+.log-in .logo {
+  position: absolute;
+  width: 166px;
+  height: 141px;
+  top: 0;
+  left: 7px;
+  object-fit: cover;
+}
+
+.log-in .frame {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 0;
+  left: 0;
+}
+
+.log-in .overlap-group-wrapper {
+  position: absolute;
+  width: 655px;
+  height: 967px;
+  top: 0;
+  left: 644px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.log-in .overlap-3 {
+  position: relative;
+  width: 733px;
+  height: 963px;
+}
+
+.log-in .rectangle-3 {
+  position: absolute;
+  width: 651px;
+  height: 963px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.log-in .rectangle-4 {
+  position: absolute;
+  width: 552px;
+  height: 76px;
+  top: 795px;
+  left: 56px;
+  background-color: #d9d9d9;
+}
+
+.log-in .text-wrapper-2 {
+  top: 19px;
+  left: 112px;
+  position: absolute;
+  width: 521px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #0000006e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.log-in .image {
+  width: 85px;
+  height: 88px;
+  top: 783px;
+  left: 68px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.log-in .text-wrapper-3 {
+  position: absolute;
+  width: 318px;
+  top: 350px;
+  left: 150px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #ada4a4;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.log-in .img {
+  width: 125px;
+  height: 129px;
+  top: 18px;
+  left: 500px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.log-in .frame-2 {
+  position: absolute;
+  width: 592px;
+  height: 63px;
+  top: 232px;
+  left: 34px;
+  background-color: #d3cfcf;
+}
+
+.log-in .frame-3 {
+  position: absolute;
+  width: 592px;
+  height: 63px;
+  top: 334px;
+  left: 34px;
+  background-color: #d3cfcf;
+}
+
+.log-in .rectangle-5 {
+  position: absolute;
+  width: 541px;
+  height: 74px;
+  top: 664px;
+  left: 701px;
+  background-color: #d9d9d9;
+}
+
+.log-in .image-2 {
+  width: 84px;
+  height: 83px;
+  top: -7px;
+  left: 13px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.log-in .image-wrapper {
+  position: absolute;
+  width: 541px;
+  height: 74px;
+  top: 414px;
+  left: 850px;
+}
+
+.log-in .image-3 {
+  width: 65px;
+  height: 59px;
+  top: 0;
+  left: 238px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.log-in .rectangle-6 {
+  position: absolute;
+  width: 541px;
+  height: 74px;
+  top: 539px;
+  left: 701px;
+  background-color: #d9d9d9;
+}
+
+.log-in .image-4 {
+  width: 76px;
+  height: 76px;
+  top: 0;
+  left: 17px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.log-in .text-wrapper-7 {
+  top: 20px;
+  left: 114px;
+  position: absolute;
+  width: 521px;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #0000006e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.log-in .image-5 {
+  width: 566px;
+  height: 293px;
+  top: 312px;
+  left: 21px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.log-in .input-wrapper {
+  position: absolute;
+  width: 250px;
+  height: 63px;
+  top: 232px;
+  left: 750px;
+
+}
+.log-in .input-wrapper1 {
+  position: absolute;
+  width: 250px;
+  height: 63px;
+  top: 292px;
+  left: 750px;
+
+}
+
+.log-in .email-input,
+.log-in .password-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.log-in .login-button {
+  background-color: #1e5048; /* Change this to your desired button color */
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+}
+.log-in .login-button1 {
+  background-color: white; /* Change this to your desired button color */
+  border:none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  color: black;
+
+}
+
+/* Add styles for text wrappers */
+
+.log-in .text-wrapper-6 {
+
+
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #0000006e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 5px;
+  position: absolute;
+  width: 592px;
+  height: 63px;
+  top: 232px;
+  left: 34px;
+}
+.log-in .text-wrapper-4{
+  position: relative;
+  width: auto;
+  font-family: "Lato", Helvetica;
+  font-weight: 400;
+  color: #0000006e;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 5px;
+
+}
+
+.log-in .login-twitter {
+  background-color: #1e5048; /* Change this to your desired button color */
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+  top: 2000px;
+  left:1000px;
+}
